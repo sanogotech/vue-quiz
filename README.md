@@ -1,5 +1,9 @@
 # quiz
 
+##  Video
+Vuejs in 3 Hours
+- https://youtu.be/4deVCNJq3qc
+
 ## Project setup
 ```
 npm install
